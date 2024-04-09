@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "node app.js"
   },
   "license": "MIT",
   "dependencies": {
